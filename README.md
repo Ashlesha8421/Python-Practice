@@ -5,7 +5,7 @@
    | ------- | ---- | ----- | ------ | ------ | ----- |
    | Indexing, (positive/Negative), Slicing | Append, Insert, Remove, pop, del, extend, count,index, sort, reverse | Packing, List in Tuple ,IN operator, Misc String, format | Add elements to dict, Delete element(key-value) from dict, Misc Operations | generate a series/sequence of numbers, Start (include) : Stop(exclude) : Step count | add, union, intersectipn, skip |
 
-# --Control Structure
+##  --Control Structure
 |Taking user input | if,if-else,if-else | While loop | 
 For loop(using range)| For loop(using list) | For loop(using dict) 
 | break | continue | pass | Examples
