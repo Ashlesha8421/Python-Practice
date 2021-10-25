@@ -29,6 +29,6 @@ Membership operator | Set Comprehension
 
 
 ## --Functions
- | Basics | Factorial of Number | Iterative Approach | Recursive Approach | Positional Arguments | Key-Word Argument | Default Arguments | Named Arguments | Lambda functions | Args and KWargs |
+ | Basics | Factorial of Number | Iterative Approach | Recursive Approach | Positional Arguments | Key-Word Argument | Default Arguments | Named Arguments | Lambda functions | Args and KWargs | 
  
  
